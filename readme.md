@@ -1,6 +1,6 @@
 # Vera Software Website
 
-Bootstrap Business website for software solutions. Dark-themed design with modals and other features. This website is built with Bootstrap and SCSS. It uses [Font Awesome](https://fontawesome.com/) for icons.
+Bootstrap Business website for software solutions. Dark-themed design with modals and other features. This website is built with Bootstrap and Sass. It uses [Font Awesome](https://fontawesome.com/) for icons.
 
 ## Features
 
